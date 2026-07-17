@@ -1,7 +1,7 @@
 <img width="2000" height="1331" alt="image" src="https://github.com/user-attachments/assets/f4006dd3-39d7-4a67-b0cc-bee46553b32b" />
 
 
-Front-End Web Development
+* Front-End Web Development
 
 HTML 5
 
@@ -23,7 +23,9 @@ Bash Command Line
 
 Git, GitHub and Version Control
 
-Backend Web Development
+
+
+* Backend Web Development
 
 Node.js
 
